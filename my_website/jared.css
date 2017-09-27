@@ -1,0 +1,17 @@
+doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    
+body{
+	background-color: lightblue;
+	font-family: "Avant Garde", Avantgarde;
+	color: #ffffcc;
+	background-image: url("images/cyber.jpg");
+	background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+h1{
+    color: white;
+    text-align: center;
+}
